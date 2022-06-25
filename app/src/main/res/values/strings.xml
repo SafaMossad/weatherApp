@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RobustaWeatherApp</string>
+    <string name="facebook_app_id">1396164587569588</string>
+    <string name="facebook_client_token">b43faea43a1b0f1a4b8cc31ea6aea046</string>
+    <string name="current_location_btn">Get Current Location Data</string>
+    <string name="share_btn">Share</string>
+    <string name="upload_image">Upload Image</string>
+</resources>
